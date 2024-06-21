@@ -105,8 +105,149 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BENBIBRF
 
+[Document5]
+DocumentPath=PcbTester.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for RevvyPcbTester\Design Rule Check - Pcb.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=PcbTester\NC Drill\Pcb.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Free Documents\NC Drill\Pcb.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for RevvyPcbTester\Fabrication Output\Pcb.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for RevvyPcbTester\NC Drill\Pcb.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=PcbTester\Gerber\Pcb.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Free Documents\Gerber\Pcb.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for RevvyPcbTester\Fabrication Output\Pcb.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for RevvyPcbTester\Gerber\Pcb.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for RevvyPcbTester\Fabrication Output\Pcb.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for RevvyPcbTester\Fabrication Output\Pcb.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for RevvyPcbTester\Fabrication Output\Pcb.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for RevvyPcbTester\Fabrication Output\Pcb.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for RevvyPcbTester\Fabrication Output\Pcb.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for RevvyPcbTester\Fabrication Output\Pcb.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for RevvyPcbTester\Fabrication Output\Pcb.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for RevvyPcbTester\Fabrication Output\Pcb.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for RevvyPcbTester\Fabrication Output\Pcb.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Free Documents\NC Drill\Pcb.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for RevvyPcbTester\Fabrication Output\Pcb.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for RevvyPcbTester\NC Drill\Pcb.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Free Documents\Gerber\Pcb.REP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for RevvyPcbTester\Fabrication Output\Pcb.REP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for RevvyPcbTester\Gerber\Pcb.REP
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=PcbTester\Gerber\Pcb.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for Free Documents\Gerber\Pcb.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for RevvyPcbTester\Fabrication Output\Pcb.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for RevvyPcbTester\Gerber\Pcb.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=PcbTester\NC Drill\Pcb.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for Free Documents\NC Drill\Pcb.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for RevvyPcbTester\Fabrication Output\Pcb.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for RevvyPcbTester\NC Drill\Pcb.TXT
 DItemRevisionGUID=
 
 [Configuration1]
