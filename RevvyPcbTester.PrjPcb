@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for RevvyPcbTester
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -127,127 +127,67 @@ DocumentPath=Project Outputs for RevvyPcbTester\Design Rule Check - Pcb.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=PcbTester\NC Drill\Pcb.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Free Documents\NC Drill\Pcb.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument4]
 DocumentPath=Project Outputs for RevvyPcbTester\Fabrication Output\Pcb.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument5]
-DocumentPath=Project Outputs for RevvyPcbTester\NC Drill\Pcb.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=PcbTester\Gerber\Pcb.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Free Documents\Gerber\Pcb.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument8]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for RevvyPcbTester\Fabrication Output\Pcb.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument9]
-DocumentPath=Project Outputs for RevvyPcbTester\Gerber\Pcb.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument10]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for RevvyPcbTester\Fabrication Output\Pcb.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for RevvyPcbTester\Fabrication Output\Pcb.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for RevvyPcbTester\Fabrication Output\Pcb.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for RevvyPcbTester\Fabrication Output\Pcb.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for RevvyPcbTester\Fabrication Output\Pcb.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for RevvyPcbTester\Fabrication Output\Pcb.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for RevvyPcbTester\Fabrication Output\Pcb.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for RevvyPcbTester\Fabrication Output\Pcb.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for RevvyPcbTester\Fabrication Output\Pcb.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument19]
-DocumentPath=Project Outputs for Free Documents\NC Drill\Pcb.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument20]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for RevvyPcbTester\Fabrication Output\Pcb.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument21]
-DocumentPath=Project Outputs for RevvyPcbTester\NC Drill\Pcb.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for Free Documents\Gerber\Pcb.REP
-DItemRevisionGUID=
-
-[GeneratedDocument23]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for RevvyPcbTester\Fabrication Output\Pcb.REP
 DItemRevisionGUID=
 
-[GeneratedDocument24]
-DocumentPath=Project Outputs for RevvyPcbTester\Gerber\Pcb.REP
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=PcbTester\Gerber\Pcb.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for Free Documents\Gerber\Pcb.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument27]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for RevvyPcbTester\Fabrication Output\Pcb.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument28]
-DocumentPath=Project Outputs for RevvyPcbTester\Gerber\Pcb.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=PcbTester\NC Drill\Pcb.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for Free Documents\NC Drill\Pcb.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument31]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for RevvyPcbTester\Fabrication Output\Pcb.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument32]
-DocumentPath=Project Outputs for RevvyPcbTester\NC Drill\Pcb.TXT
+[GeneratedDocument17]
+DocumentPath=Project Outputs for RevvyPcbTester\ExportSTEP\Pcb.x_t
 DItemRevisionGUID=
 
 [Configuration1]
@@ -259,6 +199,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=Project Outputs for RevvyPcbTester
 
 [OutputGroup1]
 Name=Netlist Outputs
